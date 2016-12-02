@@ -1,4 +1,5 @@
-./carPi/video/
-./carPi/data/
-./carPi/log/
-./carPi/temp
+video/
+data/
+logs/
+temp/
+*.pyc
